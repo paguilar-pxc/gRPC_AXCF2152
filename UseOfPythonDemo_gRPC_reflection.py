@@ -12,7 +12,7 @@ Compatibility :     grpcio = 1.76.0
                     grpcio-reflection = 1.76.0
 Created: 2026-02-12
 Version: 1.0
-License: No-License
+License: Apache-2.0 license
 
 Helping tips:
 
